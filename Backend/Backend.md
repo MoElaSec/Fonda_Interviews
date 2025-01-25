@@ -63,17 +63,18 @@ List of 3-phases interview questions
 
      - I followed the AppEngine design and talked about having WebSocket / SSE to notify users once it's done
 
-   - notification once the user apply to a job goes bellow a certain performance
+   - notification (email+sms) once the user apply to a job & simulation performance is bellow an acceptable threshold 
 
      - Notification-MS
 
    - only certain users can get certain services + users get sms 2fa + some users can create other users
      - IAM
   
-
+   https://codeshare.io/4YMzNL
+   
 <br>
 
-2. Design a Real-Time Analytics Dashboard for Monitoring Application Metrics
+1. Design a Real-Time Analytics Dashboard for Monitoring Application Metrics
 
    - **Description:** Create a system that ingests real-time data from various sources, processes and aggregates metrics, stores them efficiently, and presents them on a dashboard with real-time updates.
    - Considerations:
