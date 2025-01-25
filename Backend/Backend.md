@@ -14,6 +14,7 @@ List of 3-phases interview questions
 
    b. then write a quick unit-test for it. 
    https://sharepad.io/p/RWCGkEz
+   https://codeshare.io/KW0AKP
 
    - **Objective:** Assess algorithmic thinking and efficiency.
    - **Skills Tested:** Looping constructs, conditional logic, optimization.
@@ -42,7 +43,7 @@ List of 3-phases interview questions
 
 1. refactor a function that config and conn to a PyMongo and then get customers collections to get all services
 
-   - goal is to be able to use any DB (file, PSQL...etc)
+   - goal is to be able to use any DB (file, PSQL...etc) https://codeshare.io/3yMOjz
    - take look at the `refactor_pymongo.py` file
 
 2.
